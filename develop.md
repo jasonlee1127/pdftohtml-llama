@@ -20,4 +20,4 @@ sample_test_2 에서 진행할 모델: Qwen2.5-7B-Instruct
 모델은 허깅페이스(https://huggingface.co/)에서 다운로드를 진행한다.
 
 ./build/bin/llama-server \
-  -m ../models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+  -m models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
